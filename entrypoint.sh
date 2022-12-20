@@ -1,0 +1,2 @@
+export NDSCHEDULER_SETTINGS_MODULE=scheduler_runner.settings
+python server.py

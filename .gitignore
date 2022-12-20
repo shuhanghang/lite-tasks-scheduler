@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+builds-*
+.cache/
+.pip/
+venv/
+.wheelhouse/
+.eggs/
+.idea/
+build/
+dist/
+*.db
+*.egg-info/
+*.egg/
+scheduler_runner/tasks_module/*
