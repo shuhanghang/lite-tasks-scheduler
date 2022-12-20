@@ -7,6 +7,7 @@ Fork from ``ndscheduler``,  It's a flexible python library for building your own
 
 
 **``Lite-tasks-scheduler`` currently supports Python 3.9.6 on Mac OS X / Linux.**
+
 **``Lite-tasks-scheduler`` add configuration feature.**
 ## Table of contents
   
