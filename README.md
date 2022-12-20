@@ -73,3 +73,6 @@ We provide a default implementation of web ui. You can replace the default web u
 **Modify a job**
 
 ![Modify a job](./imges/modify-job.png)
+
+**Configure a job**
+![Confiure a job](./imges/configure-job.png)
